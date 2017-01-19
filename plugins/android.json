@@ -1,0 +1,35 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "sunshineliwei.project.sellwebapp"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "sunshineliwei.project.sellwebapp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "sunshineliwei.project.sellwebapp"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "sunshineliwei.project.sellwebapp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "sunshineliwei.project.sellwebapp"
+        },
+        "jpush-phonegap-plugin": {
+            "API_KEY": "d9589f0d32c175d8722c5807",
+            "PACKAGE_NAME": "sunshineliwei.project.sellwebapp"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "sunshineliwei.project.sellwebapp"
+        }
+    }
+}
